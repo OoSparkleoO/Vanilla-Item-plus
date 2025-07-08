@@ -10,13 +10,13 @@ Put the .zip file in `saves/[your world's name]/datapacks/` and restart the serv
 
 You can see the message when datapacks is loaded, click "\[设置\]" and you'll see detailed message.
 
-You can also run `/reload` to see the message or run `/function vanllia_item_plus:config_page_main` to see the detailed message.
+You can also run `/reload` to see the message or run `/function vanilla_item_plus:config_page_main` to see the detailed message.
 
 ### For users over 1.21.6
 
 You can see the message when datapacks is loaded, click "\[设置\]" and you'll see a dialog.
 
-You can also press `quick action` key(for `G` default), then you should choose "Vanllia Item+" or you will directly enter the VI+'s dialog.
+You can also press `quick action` key(for `G` default), then you should choose "vanilla Item+" or you will directly enter the VI+'s dialog.
 
 ## How to build and active infinite vault
 

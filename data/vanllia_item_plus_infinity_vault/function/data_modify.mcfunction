@@ -1,2 +1,0 @@
-execute as @e[type=text_display,tag=vault] at @s positioned ~ ~-1.2 ~ unless block ~ ~ ~ minecraft:vault{server_data:{rewarded_players:[]}} if function vanllia_item_plus_infinity_vault:sturtcture run data remove block ~ ~ ~ server_data.rewarded_players
-execute as @e[type=text_display,tag=vault] at @s positioned ~ ~-1.2 ~ unless block ~ ~ ~ minecraft:vault{server_data:{rewarded_players:[]}} unless function vanllia_item_plus_infinity_vault:sturtcture run kill @s

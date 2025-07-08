@@ -1,0 +1,3 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:trial_key"}},sort=random,limit=1] at @s if data storage vanilla_item_plus:options {infinity_vault:1b} run function vanilla_item_plus_infinity_vault:find_vault
+execute as @e[type=item,nbt={Item:{id:"minecraft:ominous_trial_key"}},sort=random,limit=1] at @s if data storage vanilla_item_plus:options {infinity_vault:1b} run function vanilla_item_plus_infinity_vault:find_vault
+execute as @e[type=text_display,tag=vault] at @s unless data storage vanilla_item_plus:options {infinity_vault:1b} run kill @s

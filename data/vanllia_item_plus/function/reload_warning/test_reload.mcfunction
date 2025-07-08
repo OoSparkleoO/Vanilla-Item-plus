@@ -1,1 +1,0 @@
-execute store success storage vanllia_item_plus:options reloaded byte 1 run dialog show @a vanllia_item_plus:test_0102

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern":[
+        "A  ",
+        "A  ",
+        " A "
+    ],
+    "key": {
+        "A":"#vanilla_item_plus_wood_conversion:flammable_planks"
+    },
+    "result": {
+        "id": "spruce_planks",
+        "count": 3
+    }
+}

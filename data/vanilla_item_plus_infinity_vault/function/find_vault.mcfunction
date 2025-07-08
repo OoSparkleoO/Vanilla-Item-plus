@@ -1,0 +1,2 @@
+execute as @s at @s align xyz positioned ~ ~-1 ~ if function vanilla_item_plus_infinity_vault:sturtcture unless entity @e[type=text_display,tag=vault,distance=0..1.5] run particle end_rod ~0.5 ~1.5 ~0.5 0 0 0 0.1 20 force @a 
+execute as @s at @s align xyz positioned ~ ~-1 ~ if function vanilla_item_plus_infinity_vault:sturtcture unless entity @e[type=text_display,tag=vault,distance=0..1.5] run summon minecraft:text_display ~0.5 ~1.2 ~0.5 {billboard:"center",background:0,text:[{"text":"∞","color":"light_purple"}],Tags:["vault"]}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        " A ",
+        "  A"
+    ],
+    "key": {
+        "A":"#vanilla_item_plus_wood_conversion:flammable_woods"
+    },
+    "result": {
+        "id": "cherry_wood",
+        "count": 3
+    }
+}

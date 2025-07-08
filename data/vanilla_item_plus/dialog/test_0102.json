@@ -1,0 +1,14 @@
+{
+    "type": "notice",
+    "title": "Vanilla Item+",
+    "body": [
+        {
+            "type": "minecraft:plain_message",
+            "contents": [
+                {
+                    "text":"当你看到这个对话框时，Vanilla Item+已经完全加载了，直接退出该对话框即可"
+                }
+            ]
+        }
+    ]
+}
