@@ -26,7 +26,7 @@
 
 ![](infinite_vault_structure_1.png) ![](infinite_vault_structure_up1.png)
 
-2.然后再建造一个金块和下界合金块的棋盘样的平台。
+2.然后再建造一个金块和下界合金块的棋盘样的平台, 并在信标上放上末地烛。
 
 ![](infinite_vault_structure_2.png) ![](infinite_vault_structure_up2.png)
 
