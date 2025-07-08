@@ -1,4 +1,4 @@
-# Vanllia Item+ User Brochure
+# Vanilla Item+ User Brochure
 
 ## How to load?
 
