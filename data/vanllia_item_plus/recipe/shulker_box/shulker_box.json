@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " A ",
+        "B B",
+        " A "
+    ],
+    "key":{
+        "A":"shulker_shell",
+        "B":"#logs"
+    },
+    "result": {
+        "id": "shulker_box",
+        "count": 1
+    }
+}

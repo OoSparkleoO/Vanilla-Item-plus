@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A":"bamboo_planks"
+    },
+    "result": {
+        "id": "bamboo_mosaic",
+        "count": 9
+    }
+}

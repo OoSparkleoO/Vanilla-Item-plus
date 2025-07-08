@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "BA",
+        "BCA",
+        "BA "
+    ],
+    "key": {
+        "A":"stick",
+        "B":"string",
+        "C":"dropper"
+    },
+    "result": {
+        "id": "minecraft:dispenser"
+    }
+}

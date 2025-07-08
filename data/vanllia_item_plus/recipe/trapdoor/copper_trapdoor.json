@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": "copper_block"
+    },
+    "result": {
+        "id": "copper_trapdoor",
+        "count": 18
+    }
+}

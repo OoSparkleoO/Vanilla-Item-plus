@@ -1,0 +1,32 @@
+{
+    "type": "entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "player_head",
+                    "functions": [
+                        {
+                            "function": "fill_player_head",
+                            "entity": "this"
+                        }
+                    ]
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "killed_by_player"
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "nbt": "{Tags:[\"player_drops_head_enable\"]}"
+                    }
+                }
+            ]
+        }
+    ]
+}

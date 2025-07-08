@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "A":"#warped_stems",
+        "B":"warped_planks"
+    },
+    "result": {
+        "id": "warped_fence",
+        "count": 12
+    }
+}

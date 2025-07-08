@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        "AA ",
+        "AAA"
+    ],
+    "key": {
+        "A":"#jungle_logs"
+    },
+    "result": {
+        "id": "jungle_stairs",
+        "count": 16
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A A",
+        "A A",
+        "AAA"
+    ],
+    "key": {
+        "A":"iron_block"
+    },
+    "result": {
+        "id": "cauldron",
+        "count": 9
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "multi_action",
+    "after_action":"close",
+    "pause": false,
+    "can_close_with_escape": true,
+    "columns": 2,
+    "title": "Vanilla Item+",
+    "external_title": "Vanilla Item+",
+    "body": [
+        {
+            "type": "plain_message",
+            "contents": "Vanilla Item+ - 为原版玩家提供更方便的合成与物品获取",
+            "width": 1024
+        }
+    ],
+    "actions": [
+        {
+            "label": "设置",
+            "action": {
+                "type": "show_dialog",
+                "dialog": "vanllia_item_plus:options_main"
+            }
+        }
+    ]
+}

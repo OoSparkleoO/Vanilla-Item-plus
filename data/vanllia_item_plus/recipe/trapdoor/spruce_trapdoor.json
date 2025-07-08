@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key":{
+        "A":"#spruce_logs"
+    },
+    "result": {
+        "id": "spruce_trapdoor",
+        "count": 8
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "A":"#birch_logs",
+        "B":"birch_planks"
+    },
+    "result": {
+        "id": "birch_fence",
+        "count": 12
+    }
+}

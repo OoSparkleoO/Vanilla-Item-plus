@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "A":"#cherry_logs",
+        "B":"cherry_planks"
+    },
+    "result": {
+        "id": "cherry_fence",
+        "count": 12
+    }
+}

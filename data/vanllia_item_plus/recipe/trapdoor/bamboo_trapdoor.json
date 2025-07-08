@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key":{
+        "A":"#bamboo_blocks"
+    },
+    "result": {
+        "id": "bamboo_trapdoor",
+        "count": 4
+    }
+}

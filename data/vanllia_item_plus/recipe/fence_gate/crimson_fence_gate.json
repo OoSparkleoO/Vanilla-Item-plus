@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "B":"#crimson_stems",
+        "A":"crimson_planks"
+    },
+    "result": {
+        "id": "crimson_fence_gate",
+        "count": 4
+    }
+}

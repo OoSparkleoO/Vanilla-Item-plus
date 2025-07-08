@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        "AA ",
+        "AAA"
+    ],
+    "key": {
+        "A":"#warped_stems"
+    },
+    "result": {
+        "id": "warped_stairs",
+        "count": 16
+    }
+}

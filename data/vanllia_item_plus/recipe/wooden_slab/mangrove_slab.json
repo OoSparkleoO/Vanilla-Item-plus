@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA"
+    ],
+    "key": {
+        "A":"#mangrove_logs"
+    },
+    "result": {
+        "id": "mangrove_slab",
+        "count": 24
+    }
+}

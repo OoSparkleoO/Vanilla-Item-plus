@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key":{
+        "A":"#jungle_logs"
+    },
+    "result": {
+        "id": "jungle_trapdoor",
+        "count": 8
+    }
+}

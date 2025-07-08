@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":"birch_planks",
+        "B":"chest"
+    },
+    "result": {
+        "id": "birch_chest_boat"
+    }
+} 

@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "BAB",
+        "   ",
+        "BAB"
+    ],
+    "key":{
+        "A":"shulker_shell",
+        "B":"#bamboo_blocks"
+    },
+    "result": {
+        "id": "shulker_box",
+        "count": 1
+    }
+}

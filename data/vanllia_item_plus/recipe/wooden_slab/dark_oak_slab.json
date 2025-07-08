@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA"
+    ],
+    "key": {
+        "A":"#dark_oak_logs"
+    },
+    "result": {
+        "id": "dark_oak_slab",
+        "count": 24
+    }
+}

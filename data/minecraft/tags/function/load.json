@@ -1,0 +1,8 @@
+{
+    "replace":false,
+    "values":[
+        "vanllia_item_plus:load",
+        "vanllia_item_plus:reload_warning/create_bossbar",
+        "vanllia_item_plus:reload_warning/schedule"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        "A  ",
+        "A  "
+    ],
+    "key": {
+        "A":"warped_planks"
+    },
+    "result": {
+        "id": "crimson_planks",
+        "count": 3
+    }
+}

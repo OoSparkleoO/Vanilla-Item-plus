@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "A A",
+        "A A"
+    ],
+    "key": {
+        "A":"#logs"
+    },
+    "result": {
+        "id": "barrel",
+        "count": 4
+    }
+}

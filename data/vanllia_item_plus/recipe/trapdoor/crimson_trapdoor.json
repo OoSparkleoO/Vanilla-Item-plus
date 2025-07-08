@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key":{
+        "A":"#crimson_stems"
+    },
+    "result": {
+        "id": "crimson_trapdoor",
+        "count": 8
+    }
+}

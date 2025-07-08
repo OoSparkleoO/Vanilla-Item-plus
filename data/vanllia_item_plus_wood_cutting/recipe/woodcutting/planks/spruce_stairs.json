@@ -1,0 +1,9 @@
+{
+    "type": "stonecutting",
+    "ingredient": [
+        "spruce_planks"
+    ],
+    "result": {
+        "id": "spruce_stairs"
+    }
+}

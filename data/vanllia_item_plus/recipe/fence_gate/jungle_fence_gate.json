@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "B":"#jungle_logs",
+        "A":"jungle_planks"
+    },
+    "result": {
+        "id": "jungle_fence_gate",
+        "count": 4
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA"
+    ],
+    "key": {
+        "A":"#pale_oak_logs"
+    },
+    "result": {
+        "id": "pale_oak_slab",
+        "count": 24
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A":"#mangrove_logs"
+    },
+    "result": {
+        "id": "mangrove_door",
+        "count": 12
+    }
+}

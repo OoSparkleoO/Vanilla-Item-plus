@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "B":"#dark_oak_logs",
+        "A":"dark_oak_planks"
+    },
+    "result": {
+        "id": "dark_oak_fence_gate",
+        "count": 4
+    }
+}

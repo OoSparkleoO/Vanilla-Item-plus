@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        "  A",
+        " A "
+    ],
+    "key": {
+        "A":"#vanllia_item_plus_wood_conversion:flammable_stripped_logs"
+    },
+    "result": {
+        "id": "stripped_mangrove_log",
+        "count": 3
+    }
+}

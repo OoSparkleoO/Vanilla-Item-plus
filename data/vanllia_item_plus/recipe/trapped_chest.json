@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":"#planks",
+        "B":"tripwire_hook"
+    },
+    "result": {
+        "id": "trapped_chest"
+    }
+}

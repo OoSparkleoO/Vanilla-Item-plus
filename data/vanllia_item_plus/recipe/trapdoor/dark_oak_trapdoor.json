@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key":{
+        "A":"#dark_oak_logs"
+    },
+    "result": {
+        "id": "dark_oak_trapdoor",
+        "count": 8
+    }
+}

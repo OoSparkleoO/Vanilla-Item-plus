@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA",
+        " A "
+    ],
+    "key": {
+        "A":"iron_ingot",
+        "B":"#logs"
+    },
+    "result": {
+        "id": "hopper"
+    }
+}

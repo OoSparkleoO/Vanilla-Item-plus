@@ -1,0 +1,10 @@
+{
+    "replace":false,
+    "values":[
+        "vanllia_item_plus:config_controller",
+        "vanllia_item_plus_infinity_vault:data_modify",
+        "vanllia_item_plus_infinity_vault:switch",
+        "vanllia_item_plus:change_value_to_string",
+        "vanllia_item_plus:reload_warning/show_bossbar"
+    ]
+}

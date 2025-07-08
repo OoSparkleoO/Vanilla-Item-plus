@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "B":"#spruce_logs",
+        "A":"spruce_planks"
+    },
+    "result": {
+        "id": "spruce_fence_gate",
+        "count": 4
+    }
+}

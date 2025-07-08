@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        "A  ",
+        "A  "
+    ],
+    "key": {
+        "A":"stripped_warped_hyphae"
+    },
+    "result": {
+        "id": "stripped_crimson_hyphae",
+        "count": 3
+    }
+}

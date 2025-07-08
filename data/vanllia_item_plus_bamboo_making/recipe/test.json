@@ -1,0 +1,8 @@
+{
+    "type": "stonecutting",
+    "ingredient":"bedrock",
+    "result": {
+        "id": "bedrock",
+        "count": 1
+    }
+}

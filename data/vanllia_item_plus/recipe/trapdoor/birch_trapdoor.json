@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key":{
+        "A":"#birch_logs"
+    },
+    "result": {
+        "id": "birch_trapdoor",
+        "count": 8
+    }
+}

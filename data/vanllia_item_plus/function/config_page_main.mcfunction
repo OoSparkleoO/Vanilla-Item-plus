@@ -1,0 +1,4 @@
+tellraw @s [{"text":"设置","color":"aqua","bold":true}]
+tellraw @s [{"text":"Vanllia Item+ 版本[a1.2]","color":"green","bold":true}]
+tellraw @s [{"text":"点击分类查看对应设置项:"},{"text":"[分级介绍]","clickEvent":{"action": "run_command","value": "/function vanllia_item_plus:config_page_introduction"},"color":"aqua"},{"text":"[vm-1]","clickEvent":{"action": "run_command","value": "/function vanllia_item_plus:config_page_1"},"color":"green"},{"text":"[vm-2]","clickEvent":{"action": "run_command","value": "/function vanllia_item_plus:config_page_2"},"color":"yellow"},{"text":"[vm-3]","clickEvent":{"action": "run_command","value": "/function vanllia_item_plus:config_page_3"},"color":"light_purple"},{"text":"[sp]","clickEvent":{"action": "run_command","value": "/function vanllia_item_plus:config_page_sp"},"color":"gold"}]
+tellraw @s [{"text":"提示：如果你正在使用1.21.6及以上的版本，你不应该在这里更改设置","bold":true,"color":"red"}]

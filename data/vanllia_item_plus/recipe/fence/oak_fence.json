@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "A":"#oak_logs",
+        "B":"oak_planks"
+    },
+    "result": {
+        "id": "oak_fence",
+        "count": 12
+    }
+}

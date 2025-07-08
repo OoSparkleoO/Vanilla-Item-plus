@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA",
+        "BAB"
+    ],
+    "key": {
+        "A":"iron_ingot",
+        "B":"#bamboo_blocks"
+    },
+    "result": {
+        "id": "hopper"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":"gold_block",
+        "B":"apple"
+    },
+    "result": {
+        "id": "enchanted_golden_apple"
+    }
+}

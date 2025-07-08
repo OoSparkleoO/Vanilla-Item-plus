@@ -1,0 +1,9 @@
+{
+    "type": "stonecutting",
+    "ingredient":[
+        "bamboo_mosaic"
+    ],
+    "result": {
+        "id": "bamboo_planks"
+    }
+}

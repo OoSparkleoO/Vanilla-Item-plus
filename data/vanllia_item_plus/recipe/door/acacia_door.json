@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A":"#acacia_logs"
+    },
+    "result": {
+        "id": "acacia_door",
+        "count": 12
+    }
+}

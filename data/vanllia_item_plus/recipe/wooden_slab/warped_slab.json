@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA"
+    ],
+    "key": {
+        "A":"#warped_stems"
+    },
+    "result": {
+        "id": "warped_slab",
+        "count": 24
+    }
+}

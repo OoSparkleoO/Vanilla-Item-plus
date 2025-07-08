@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A A",
+        "A A",
+        "AAA"
+    ],
+    "key": {
+        "A":"#planks"
+    },
+    "result": {
+        "id": "composter",
+        "count": 2
+    }
+}

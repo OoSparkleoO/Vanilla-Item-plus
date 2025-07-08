@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":"jungle_planks",
+        "B":"chest"
+    },
+    "result": {
+        "id": "jungle_chest_boat"
+    }
+} 

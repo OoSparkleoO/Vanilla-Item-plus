@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":"mangrove_planks",
+        "B":"chest"
+    },
+    "result": {
+        "id": "mangrove_chest_boat"
+    }
+} 

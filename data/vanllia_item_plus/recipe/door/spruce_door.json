@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A":"#spruce_logs"
+    },
+    "result": {
+        "id": "spruce_door",
+        "count": 12
+    }
+}

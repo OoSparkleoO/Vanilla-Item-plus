@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A":"#birch_logs"
+    },
+    "result": {
+        "id": "birch_door",
+        "count": 12
+    }
+}

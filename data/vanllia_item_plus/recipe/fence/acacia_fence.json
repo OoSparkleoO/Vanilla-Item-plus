@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "A":"#acacia_logs",
+        "B":"acacia_planks"
+    },
+    "result": {
+        "id": "acacia_fence",
+        "count": 12
+    }
+}

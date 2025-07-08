@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A":"#dark_oak_logs"
+    },
+    "result": {
+        "id": "dark_oak_door",
+        "count": 12
+    }
+}

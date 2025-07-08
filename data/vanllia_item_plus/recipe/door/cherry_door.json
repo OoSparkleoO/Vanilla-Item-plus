@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A":"#cherry_logs"
+    },
+    "result": {
+        "id": "cherry_door",
+        "count": 12
+    }
+}

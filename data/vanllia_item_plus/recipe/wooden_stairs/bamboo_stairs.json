@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        "AA ",
+        "AAA"
+    ],
+    "key": {
+        "A":"#bamboo_blocks"
+    },
+    "result": {
+        "id": "bamboo_stairs",
+        "count": 8
+    }
+}

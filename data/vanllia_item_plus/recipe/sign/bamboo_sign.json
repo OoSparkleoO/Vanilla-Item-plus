@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA",
+        " B "
+    ],
+    "key": {
+        "A":"#bamboo_blocks",
+        "B":"#planks"
+    },
+    "result": {
+        "id": "bamboo_sign",
+        "count": 6
+    }
+}

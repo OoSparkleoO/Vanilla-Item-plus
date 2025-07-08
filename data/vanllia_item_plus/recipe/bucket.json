@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A A",
+        " A "
+    ],
+    "key": {
+        "A":"iron_block"
+    },
+    "result": {
+        "id": "bucket",
+        "count": 9
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA"
+    ],
+    "key": {
+        "A":"#cherry_logs"
+    },
+    "result": {
+        "id": "cherry_slab",
+        "count": 24
+    }
+}

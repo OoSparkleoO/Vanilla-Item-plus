@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "bone",
+        "bone",
+        "bone"
+    ],
+    "result": {
+        "id": "bone_block"
+    }
+}

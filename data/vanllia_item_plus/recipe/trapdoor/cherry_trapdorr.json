@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA"
+    ],
+    "key":{
+        "A":"#cherry_logs"
+    },
+    "result": {
+        "id": "cherry_trapdoor",
+        "count": 8
+    }
+}

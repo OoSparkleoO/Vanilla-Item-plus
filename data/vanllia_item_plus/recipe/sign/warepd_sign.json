@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA",
+        "B B"
+    ],
+    "key": {
+        "A":"#warped_stems",
+        "B":"#planks"
+    },
+    "result": {
+        "id": "warped_sign",
+        "count": 12
+    }
+}

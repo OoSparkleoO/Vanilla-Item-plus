@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A":"copper_block"
+    },
+    "result": {
+        "id": "copper_door",
+        "count": 27
+    }
+}

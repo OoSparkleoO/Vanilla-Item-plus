@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA",
+        "B B"
+    ],
+    "key": {
+        "A":"#dark_oak_logs",
+        "B":"#planks"
+    },
+    "result": {
+        "id": "dark_oak_sign",
+        "count": 12
+    }
+}

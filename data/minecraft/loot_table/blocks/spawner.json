@@ -1,0 +1,46 @@
+{
+    "type": "block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "furnace",
+                    "functions": [
+                        {
+                            "function": "set_components",
+                            "components": {
+                                "custom_data": {
+                                    "useless": 1
+                                },
+                                "item_name": "[{\"text\":\"刷怪笼（装饰用）\"}]"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "match_tool",
+                    "predicate": {
+                        "predicates": {
+                            "enchantments": [
+                                {
+                                    "enchantments": "silk_touch"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "nbt": "{Tags:[\"get_useless_spawner_enable\"]}"
+                    }
+                }
+            ]
+        }
+    ]
+}

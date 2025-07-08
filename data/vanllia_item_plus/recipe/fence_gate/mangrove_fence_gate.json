@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ABA"
+    ],
+    "key": {
+        "B":"#mangrove_logs",
+        "A":"mangrove_planks"
+    },
+    "result": {
+        "id": "mangrove_fence_gate",
+        "count": 4
+    }
+}

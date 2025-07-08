@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        "A  ",
+        "A  "
+    ],
+    "key": {
+        "A":"crimson_stem"
+    },
+    "result": {
+        "id": "warped_stem",
+        "count": 3
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA"
+    ],
+    "key": {
+        "A":"#crimson_stems"
+    },
+    "result": {
+        "id": "crimson_slab",
+        "count": 24
+    }
+}
