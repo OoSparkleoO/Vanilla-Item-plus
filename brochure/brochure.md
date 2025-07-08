@@ -26,7 +26,7 @@ Follow these four steps to build the structure:
 
 ![](infinite_vault_structure_1.png) ![](infinite_vault_structure_up1.png)
 
-2.Then build a chessboard like flat with block of netherite and block of gold.
+2.Then build a chessboard like flat with block of netherite and block of gold, and put end rods on the beacons.
 
 ![](infinite_vault_structure_2.png) ![](infinite_vault_structure_up2.png)
 
