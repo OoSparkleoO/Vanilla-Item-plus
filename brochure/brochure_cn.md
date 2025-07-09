@@ -20,13 +20,13 @@
 
 ## 怎样建造无限宝库并激活？
 
-首先跟着下面四部建造结构:
+首先跟着下面四步建造结构:
 
 1.用哭泣的黑曜石和钻石块建造一个棋盘样式的平台, 角落上放信标。
 
 ![](infinite_vault_structure_1.png) ![](infinite_vault_structure_up1.png)
 
-2.然后再建造一个金块和下界合金块的棋盘样的平台。
+2.然后再建造一个金块和下界合金块的棋盘样的平台, 并在信标上放上末地烛。
 
 ![](infinite_vault_structure_2.png) ![](infinite_vault_structure_up2.png)
 
