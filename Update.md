@@ -1,3 +1,16 @@
+# 25/7/9 a1.2.1
+
+## 更新内容
+
+1. 修复了功能“石英块分解”启用时合成表错误的问题
+
+2. 实际上，上个版本并不支持1.21（.1），最低仅支持1.21.2
+
+## Updates
+
+1. Fixed the recip error when tools "divide quartz block into quartz" is enabled.
+
+2. In fact, the last version does not support 1.21(.1), it can only support 1.21.2 and above.
 
 # 25/7/8 a1.2
 
