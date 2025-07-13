@@ -1,8 +1,12 @@
 # Vanilla Item+
-A Minecrft datapack which help vanilla players got a better experiences on crafting and collecting.
+A Minecraft datapack provide vanilla players a better experiences on crafting and collecting.
 
-For language in game, there'is Chinese only, no English yet.
+English is supported now!
+
+To English users:
+
+The datapack is translated by myself, so it's inevitable to have some mistakes.
 
 为原版玩家提供更方便的合成与物品获取
 
-游戏中的语言只有中文，目前没有英语
+英语已支持！

@@ -1,3 +1,29 @@
+# 25/7/13 a1.3
+
+## 更新内容
+
+1. \[1.21.6+\]现在加载Vanilla Item+不再需要冷启动
+
+2. \[1.21.6+\]欢迎界面新增“关于”和“在github上查看本项目”
+
+3. \[1.21.6+\]设置界面新增“关于设置分类”和“恢复默认设置”
+
+4. 现在vm-3分类的设置可以直接在设置中更改，无需修改数据包文件
+
+5. 数据包支持英语！
+
+## Updates
+
+1. \[1.21.6+\]Now you needn't a cold start to load Vanilla Item+.
+
+2. \[1.21.6+\]Add "About" and "View this subject on github" into welcome page.
+
+3. \[1.21.6+\]Add "About options sort" and "Reset to default" into options page.
+
+4. Now functions in vm-3 can be changed in options page, you needn't to modify datapack files.
+
+5. Datapack supported English!
+
 # 25/7/9 a1.2.1
 
 ## 更新内容
