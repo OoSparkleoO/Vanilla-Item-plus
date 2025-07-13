@@ -1,3 +1,0 @@
-execute unless data storage vanilla_item_plus:options {reloaded:1b} run bossbar set vanilla_item_plus:warning players @a
-execute unless data storage vanilla_item_plus:options {reloaded:1b} run title @a actionbar [{"text":"检测到您正在热安装Vanilla Item+，请重启服务器或重进单人世界以加载所有内容","color":"red",bold:true}]
-execute if data storage vanilla_item_plus:options {reloaded:1b} run bossbar set vanilla_item_plus:warning players

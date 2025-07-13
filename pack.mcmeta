@@ -2,6 +2,6 @@
     "pack":{
         "pack_format": 61,
         "supported_formats":[61,99],
-        "description":"为原版玩家提供更方便的合成与物品获取"
+        "description":"Porviding vanilla players a better experiences on crafting and collecting"
     }
 }

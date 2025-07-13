@@ -1,8 +1,6 @@
 {
     "replace":false,
     "values":[
-        "vanilla_item_plus:load",
-        "vanilla_item_plus:reload_warning/create_bossbar",
-        "vanilla_item_plus:reload_warning/schedule"
+        "vanilla_item_plus:load"
     ]
 }
