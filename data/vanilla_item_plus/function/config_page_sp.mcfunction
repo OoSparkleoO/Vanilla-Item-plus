@@ -1,5 +1,5 @@
 tellraw @s [{"text":"Following are options belong to sp","color":"aqua","bold":true}]
-tellraw @s [{"text": "Attention!!!:Because of the exists of","color":"red","bold":true},{"text":"[MC-143214]","color":"blue","underlined":true,"clickEvent":{"action":"open_url","value":"https://bugs.mojang.com/browse/MC/issues/MC-143214"}},{"text":"these options cannot be change in game yet:","color":"red","bold":true}]
+tellraw @s [{"text": "Attention!!!:Because of the exists of","color":"red","bold":true},{"text":"[MC-143214]","color":"blue","underlined":true,"click_event":{"action":"open_url","url":"https://bugs.mojang.com/browse/MC/issues/MC-143214"}"clickEvent":{"action":"open_url","value":"https://bugs.mojang.com/browse/MC/issues/MC-143214"},},{"text":"these options cannot be change in game yet:","color":"red","bold":true}]
 
 #--------config level sp--------
 #005 wood_cutting

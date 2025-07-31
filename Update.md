@@ -1,3 +1,21 @@
+# 25/8/1 a1.3.1
+
+## 更新内容
+
+1. 修复无限宝库无效问题
+
+2. 修复特定版本下无限宝库标记不可见的问题
+
+3. 数据包支持1.21.5
+
+## Updates
+
+1. Fixed Infinite Vault does not work
+
+2. Fixed Infinite Vault's tag not visiable in some versions
+
+3. Supported 1.21.5
+
 # 25/7/13 a1.3
 
 ## 更新内容

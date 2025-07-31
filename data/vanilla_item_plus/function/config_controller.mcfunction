@@ -17,16 +17,20 @@ execute as @a at @s unless score @s reload_recipes matches 0 run scoreboard play
 #for sp test
 recipe take @a vanilla_item_plus_wood_cutting:woodcutting/test
 recipe take @a vanilla_item_plus_bamboo_making:test
+#version test
+data modify storage vanilla_item_plus:options over_1_21_6 set value false
+execute if function vanilla_item_plus:version_test run data modify storage vanilla_item_plus:options over_1_21_6 set value true
 #trigger open page
 scoreboard objectives add vanilla_item_plus trigger
 scoreboard players enable @a vanilla_item_plus
-execute as @a at @s if score @s vanilla_item_plus matches 1 run function vanilla_item_plus:dialog/welcome_page
-execute as @a at @s if score @s vanilla_item_plus matches 102 run function vanilla_item_plus:dialog/options_main
-execute as @a at @s if score @s vanilla_item_plus matches 103 run function vanilla_item_plus:dialog/about
+execute as @a at @s if data storage vanilla_item_plus:options {over_1_21_6:1b} if score @s vanilla_item_plus matches 1 run function vanilla_item_plus:dialog/welcome_page
+execute as @a at @s if data storage vanilla_item_plus:options {over_1_21_6:1b} if score @s vanilla_item_plus matches 102 run function vanilla_item_plus:dialog/options_main
+execute as @a at @s if data storage vanilla_item_plus:options {over_1_21_6:1b} if score @s vanilla_item_plus matches 103 run function vanilla_item_plus:dialog/about
+execute as @a at @s if data storage vanilla_item_plus:options {over_1_21_6:0b} if score @s vanilla_item_plus matches 102 run function vanilla_item_plus:config_page_main
+execute as @a at @s if data storage vanilla_item_plus:options {over_1_21_6:0b} if score @s vanilla_item_plus matches 103 run function vanilla_item_plus:about
+
 
 execute as @a at @s unless score @s vanilla_item_plus matches 0 run scoreboard players set @s vanilla_item_plus 0
-#version
-execute unless data storage vanilla_item_plus:options options{version:"a1.3"} run data modify storage vanilla_item_plus:options version set value "a1.3"
 
 #example
 #execute if data storage {ruleID:1b} run 
