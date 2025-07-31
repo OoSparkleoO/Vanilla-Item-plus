@@ -12,7 +12,7 @@
 
 1. Fixed Infinite Vault does not work
 
-2. Fixed Infinite Vault's tag not visiable in some versions
+2. Fixed Infinite Vault's tag not visible in some versions
 
 3. Supported 1.21.5
 
