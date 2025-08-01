@@ -6,7 +6,7 @@ Put the .zip file in `saves/[your world's name]/datapacks/` and run `/reload`,.
 
 ## How to change options?
 
-### For users from 1.21 to 1.21.4
+### For users from 1.21 to 1.21.5
 
 You can see the message when datapacks is loaded, click "\[options\]" and you'll see detailed message.
 
