@@ -1,6 +1,7 @@
 #--------environment config--------
 #rule setting
-gamerule doLimitedCrafting true
+function vanilla_item_plus:rule_setting_camel
+function vanilla_item_plus:rule_setting_snake
 #scoreboard create&setdefult
 scoreboard objectives add reload_recipes trigger
 execute unless data storage vanilla_item_plus:options options{ominous_elytra:1b} unless data storage vanilla_item_plus:options options{ominous_elytra:0b} run data modify storage vanilla_item_plus:options options.ominous_elytra set value false
