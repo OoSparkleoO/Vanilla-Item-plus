@@ -1,0 +1,1 @@
+gamerule limited_crafting true
